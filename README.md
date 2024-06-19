@@ -6,5 +6,5 @@
 
 測試影片 (https://youtu.be/XwmX9oNrRAs)
 
-![image](https://github.com/111B15077/final-json/blob/main/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-05%20003317.png)
-![image](https://github.com/Hsieh-Hank/finalproject/blob/master/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202024-06-05%20003329.png)
+![image](https://github.com/111B15077/final-json-main/blob/main/%E9%A1%AF%E7%A4%BA%E5%9C%96%E7%89%871.png)
+![image](https://github.com/111B15077/final-json-main/blob/main/%E9%A1%AF%E7%A4%BA%E5%9C%96%E7%89%872.png)
